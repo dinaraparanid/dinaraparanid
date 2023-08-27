@@ -31,43 +31,6 @@
             </style>
 
             <div>
-                <p class="hdr">About Me</p>
-
-                <p class="txt">
-                    I am a beginning Computes Scientist and a Software Engineer (Android, Desktop, Full-Stack developer).
-                    Speaking about education, I am a bachelor student in the Innopolis University, Russian Federation.
-                </p>
-
-                <p class="txt">
-                    I believe that theory and practice are inseparable,
-                    so I back up my knowledge with competent technical literature
-                    and create projects in various spheres.
-                </p>
-
-                <p class="txt">
-                    As for my main interests in Compute Science, I am passionate about system programming,
-                    high-performance computing (parallelism, concurrency, asynchronous execution)
-                    and native and cross-platform mobile development.
-                </p>
-
-                <p class="txt">
-                    When I have a free time, I explore something new and make articles about it.
-                    Speaking about hobbies, I like producing electronic music and work out in the gym
-                </p>
-
-                <p class="hdr">Languages</p>
-
-                <div style="align-items: center; display: flex; padding-bottom: 20px; padding-left: 10px;">
-                    <img src="https://static-00.iconduck.com/assets.00/rust-icon-2048x2047-5s6wkmk1.png" alt="Rust" width="75" style="margin-left: 5px"/>
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="75" style="margin-right: 10px"/>
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="65" style="margin-right: 20px"/>
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="CPP" width="65" style="margin-right: 20px"/>
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="60" style="margin-right: 20px"/>
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" style="margin-right: 25px"/>
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" style="margin-right: 5px"/>
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/groovy/groovy-original.svg" alt="Groovy" width="100" style="margin-right: 15px"/>
-                </div>
-
                 <p class="hdr">Libraries and Frameworks</p>
 
                 <div style="display: flex; padding-bottom: 20px; padding-left: 10px;">
