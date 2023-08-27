@@ -1,0 +1,209 @@
+<svg version="2.0" baseProfile="full" fill="none" width="1200" height="2000" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                .hdr {
+                font-family: Pristina, serif;
+                font-size: 45px;
+                text-shadow: 1px 5px 10px #700071;
+                margin-top: 20px;
+                color: #5e009c;
+                padding-left: 10px;
+                }
+
+                .sub-hdr {
+                font-family: Pristina, serif;
+                font-size: 30px;
+                text-shadow: 1px 1px 10px #C611BE;
+                margin-top: 20px;
+                color: #115EC6;
+                padding-left: 10px;
+                }
+
+                .txt {
+                font-size: 20px;
+                text-shadow: 1px 1px 15px #C611BE;
+                font-style: italic;
+                color: #115EC6;
+                padding-left: 10px;
+                padding-right: 10px;
+                }
+            </style>
+
+            <div>
+                <p class="hdr">About Me</p>
+
+                <p class="txt">
+                    I am a beginning Computes Scientist and a Software Engineer (Android, Desktop, Full-Stack developer).
+                    Speaking about education, I am a bachelor student in the Innopolis University, Russian Federation.
+                </p>
+
+                <p class="txt">
+                    I believe that theory and practice are inseparable,
+                    so I back up my knowledge with competent technical literature
+                    and create projects in various spheres.
+                </p>
+
+                <p class="txt">
+                    As for my main interests in Compute Science, I am passionate about system programming,
+                    high-performance computing (parallelism, concurrency, asynchronous execution)
+                    and native and cross-platform mobile development.
+                </p>
+
+                <p class="txt">
+                    When I have a free time, I explore something new and make articles about it.
+                    Speaking about hobbies, I like producing electronic music and work out in the gym
+                </p>
+
+                <p class="hdr">Languages</p>
+
+                <div style="align-items: center; display: flex; padding-bottom: 20px; padding-left: 10px;">
+                    <img src="https://static-00.iconduck.com/assets.00/rust-icon-2048x2047-5s6wkmk1.png" alt="Rust" width="75" style="margin-left: 5px"/>
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="75" style="margin-right: 10px"/>
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="65" style="margin-right: 20px"/>
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="CPP" width="65" style="margin-right: 20px"/>
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="60" style="margin-right: 20px"/>
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" style="margin-right: 25px"/>
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" style="margin-right: 5px"/>
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/groovy/groovy-original.svg" alt="Groovy" width="100" style="margin-right: 15px"/>
+                </div>
+
+                <p class="hdr">Libraries and Frameworks</p>
+
+                <div style="display: flex; padding-bottom: 20px; padding-left: 10px;">
+                    <div>
+                        <p class="sub-hdr">Android</p>
+
+                        <ul style="padding-bottom: 20px; margin-left: 10px;">
+                            <li class="txt">Kotlin</li>
+                            <li class="txt">Java</li>
+                            <li class="txt">Rust</li>
+                            <li class="txt">Coroutines + Flow and Channel</li>
+                            <li class="txt">RxJava</li>
+                            <li class="txt">Koin</li>
+                            <li class="txt">Dagger-Hilt</li>
+                            <li class="txt">Room</li>
+                            <li class="txt">Ktor</li>
+                            <li class="txt">Retrofit</li>
+                            <li class="txt">Kotlinx.Serialization</li>
+                            <li class="txt">Gson</li>
+                            <li class="txt">Compose</li>
+                            <li class="txt">MVVM + DataBinding</li>
+                            <li class="txt">Coil</li>
+                            <li class="txt">Glide</li>
+                            <li class="txt">DataStore + SharedPreferences</li>
+                            <li class="txt">ViewModel + Android UI</li>
+                            <li class="txt">Service, BroadcastReceiver</li>
+                            <li class="txt">JNI (Rust version)</li>
+                        </ul>
+                    </div>
+                    <div>
+                        <p class="sub-hdr">Desktop</p>
+
+                        <ul style="padding-bottom: 20px; margin-left: 10px;">
+                            <li class="txt">Kotlin</li>
+                            <li class="txt">Java</li>
+                            <li class="txt">Rust</li>
+                            <li class="txt">Compose Desktop</li>
+                            <li class="txt">Koin</li>
+                            <li class="txt">Swing</li>
+                            <li class="txt">FLTK</li>
+                            <li class="txt">Coroutines + Flow and Channel</li>
+                            <li class="txt">Rx (Kotlin, Java, Rust)</li>
+                            <li class="txt">Futures + Tokio</li>
+                            <li class="txt">Rayon</li>
+                            <li class="txt">Kotlinx.Serialization + Kaml</li>
+                            <li class="txt">Gson</li>
+                            <li class="txt">Jackson</li>
+                            <li class="txt">Serde + Yaml-Rust</li>
+                            <li class="txt">JDBC</li>
+                            <li class="txt">Exposed ORM</li>
+                            <li class="txt">Diesel ORM</li>
+                            <li class="txt">Firebase</li>
+                        </ul>
+                    </div>
+                    <div>
+                        <p class="sub-hdr">Backend</p>
+
+                        <ul style="padding-bottom: 20px; margin-left: 10px;">
+                            <li class="txt">Kotlin</li>
+                            <li class="txt">Rust</li>
+                            <li class="txt">Ktor</li>
+                            <li class="txt">Java.NIO + Java.Net</li>
+                            <li class="txt">Futures + Tokio</li>
+                            <li class="txt">Rayon</li>
+                            <li class="txt">Hyper-rs</li>
+                            <li class="txt">JDBC</li>
+                            <li class="txt">Exposed ORM</li>
+                            <li class="txt">Diesel ORM</li>
+                            <li class="txt">Firebase</li>
+                            <li class="txt">Docker</li>
+                        </ul>
+                    </div>
+                    <div>
+                        <p class="sub-hdr">Frontend</p>
+
+                        <ul style="padding-bottom: 20px; margin-left: 10px;">
+                            <li class="txt">TypeScript</li>
+                            <li class="txt">KotlinJS</li>
+                            <li class="txt">Rust</li>
+                            <li class="txt">React (JS and Kotlin)</li>
+                            <li class="txt">Yew</li>
+                            <li class="txt">HTML + CSS</li>
+                            <li class="txt">Axios</li>
+                            <li class="txt">Ktor</li>
+                            <li class="txt">Hyper-rs</li>
+                            <li class="txt">Firebase</li>
+                            <li class="txt">Docker</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <p class="hdr">Projects</p>
+
+                <div style="display: flex; padding-bottom: 20px; padding-left: 10px;">
+                    <div>
+                        <p class="sub-hdr">Android</p>
+                        <ul>
+                            <li class="txt"><a href="https://github.com/dinaraparanid/PrimaMobile">PrimaMobile</a></li>
+                            <li class="txt"><a href="https://github.com/dinaraparanid/Crescendo">Crescendo</a></li>
+                            <li class="txt"><a href="https://github.com/dinaraparanid/XXO">XXO</a></li>
+                        </ul>
+                    </div>
+                    <div>
+                        <p class="sub-hdr">Desktop</p>
+                        <ul>
+                            <li class="txt"><a href="https://github.com/dinaraparanid/PrimaPC">PrimaPC</a></li>
+                            <li class="txt"><a href="https://github.com/dinaraparanid/SapperRemastered">SAPPER Remastered</a></li>
+                            <li class="txt"><a href="https://github.com/dinaraparanid/Library_rs">Library-rs</a></li>
+                            <li class="txt"><a href="https://github.com/dinaraparanid/MultiTanks">MultiTanks</a></li>
+                        </ul>
+                    </div>
+                    <div>
+                        <p class="sub-hdr">Web</p>
+                        <ul>
+                            <li class="txt"><a href="https://github.com/dinaraparanid/InnoBookingBot">InnoBookingBot</a></li>
+                            <li class="txt"><a href="https://github.com/dinaraparanid/InnoBookingApi">InnoBookingApi</a></li>
+                            <li class="txt"><a href="https://github.com/dinaraparanid/VTMFront">VTM Front</a></li>
+                            <li class="txt"><a href="https://github.com/dinaraparanid/VTMServer">VTM Server</a></li>
+                            <li class="txt"><a href="https://github.com/dinaraparanid/GitHubUpdatesTelegramBot">GitHub Updates Bot</a></li>
+                        </ul>
+                    </div>
+                    <div>
+                        <p class="sub-hdr">Tools and Libraries</p>
+                        <ul>
+                            <li class="txt"><a href="https://github.com/dinaraparanid/music_generator">Synthwave Melody Generator</a></li>
+                            <li class="txt"><a href="https://github.com/dinaraparanid/Sapper">SAPPER Original</a></li>
+                            <li class="txt"><a href="https://github.com/dinaraparanid/DynamicArray">Dynamic Array in C lang</a></li>
+                            <li class="txt"><a href="https://github.com/dinaraparanid/String-Counter">String Counter</a></li>
+                            <li class="txt"><a href="https://github.com/dinaraparanid/genius_lyrics">Genius Lyrics Parser</a></li>
+                            <li class="txt"><a href="https://github.com/dinaraparanid/genius_track_number_in_album">Genius Track Number Parser</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+                <p class="hdr">Statistics</p>
+            </div>
+        </div>
+    </foreignObject>
+</svg>
