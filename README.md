@@ -25,7 +25,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/groovy/groovy-original.svg" alt="Groovy" width="100" style="margin-right: 15px">
 </div>
 
-<img src="https://raw.githubusercontent.com/dinaraparanid/dinaraparanid/main/about_me_2.png"/>
+<img src="https://raw.githubusercontent.com/dinaraparanid/dinaraparanid/main/about_me_2.svg"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinaraparanid&show_icons=truet&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 [![Paranid5's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinaraparanid&show_icons=true&hide=prs,issues,contribs&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
