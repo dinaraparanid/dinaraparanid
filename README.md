@@ -27,6 +27,7 @@
 
 <img src="https://raw.githubusercontent.com/dinaraparanid/dinaraparanid/main/about_me_2.png"/>
 <img src="https://raw.githubusercontent.com/dinaraparanid/dinaraparanid/main/about_me_3.svg"/>
+<img src="https://raw.githubusercontent.com/dinaraparanid/dinaraparanid/main/about_me_4.png"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinaraparanid&show_icons=truet&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 [![Paranid5's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinaraparanid&show_icons=true&hide=prs,issues,contribs&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
