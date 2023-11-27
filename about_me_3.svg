@@ -1,0 +1,78 @@
+<svg version="2.0" baseProfile="full" fill="none" width="1200" height="1000" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                .hdr {
+                font-family: Pristina, serif;
+                font-size: 45px;
+                text-shadow: 1px 5px 10px #700071;
+                margin-top: 20px;
+                color: #5e009c;
+                padding-left: 10px;
+                }
+
+                .sub-hdr {
+                font-family: Pristina, serif;
+                font-size: 30px;
+                text-shadow: 1px 1px 10px #C611BE;
+                margin-top: 20px;
+                color: #115EC6;
+                padding-left: 10px;
+                }
+
+                .txt {
+                font-size: 20px;
+                text-shadow: 1px 1px 15px #C611BE;
+                font-style: italic;
+                color: #115EC6;
+                padding-left: 10px;
+                padding-right: 10px;
+                }
+            </style>
+
+            <div style="display: flex; padding-bottom: 20px; padding-left: 10px;">
+                    <div>
+                        <p class="sub-hdr">Android</p>
+                        <ul>
+                            <li class="txt"><a href="https://github.com/dinaraparanid/PrimaMobile">PrimaMobile</a></li>
+                            <li class="txt"><a href="https://github.com/dinaraparanid/Crescendo">Crescendo</a></li>
+                            <li class="txt"><a href="https://github.com/dinaraparanid/XXO">XXO</a></li>
+                            <li class="txt"><a href="https://github.com/dinaraparanid/DailyPlanner">Daily Planner</a></li>
+                            <li class="txt"><a href="https://github.com/dinaraparanid/LogisticsAssistant">Logistics Assistant</a></li>
+                            <li class="txt"><a href="https://github.com/dinaraparanid/yt-url-extractor-kt">YouTube Url Extractor (lib)</a></li>
+                        </ul>
+                    </div>
+                    <div>
+                        <p class="sub-hdr">Desktop</p>
+                        <ul>
+                            <li class="txt"><a href="https://github.com/dinaraparanid/PrimaPC">PrimaPC</a></li>
+                            <li class="txt"><a href="https://github.com/dinaraparanid/SapperRemastered">SAPPER Remastered</a></li>
+                            <li class="txt"><a href="https://github.com/dinaraparanid/Library_rs">Library-rs</a></li>
+                            <li class="txt"><a href="https://github.com/dinaraparanid/MultiTanks">MultiTanks</a></li>
+                        </ul>
+                    </div>
+                    <div>
+                        <p class="sub-hdr">Web</p>
+                        <ul>
+                            <li class="txt"><a href="https://github.com/dinaraparanid/InnoBookingBot">InnoBookingBot</a></li>
+                            <li class="txt"><a href="https://github.com/dinaraparanid/InnoBookingApi">InnoBookingApi</a></li>
+                            <li class="txt"><a href="https://github.com/dinaraparanid/VTMFront">VTM Front</a></li>
+                            <li class="txt"><a href="https://github.com/dinaraparanid/VTMServer">VTM Server</a></li>
+                            <li class="txt"><a href="https://github.com/dinaraparanid/GitHubUpdatesTelegramBot">GitHub Updates Bot</a></li>
+                        </ul>
+                    </div>
+                    <div>
+                        <p class="sub-hdr">Tools and Libraries</p>
+                        <ul>
+                            <li class="txt"><a href="https://github.com/dinaraparanid/music_generator">Synthwave Melody Generator</a></li>
+                            <li class="txt"><a href="https://github.com/dinaraparanid/Sapper">SAPPER Original</a></li>
+                            <li class="txt"><a href="https://github.com/dinaraparanid/DynamicArray">Dynamic Array in C lang</a></li>
+                            <li class="txt"><a href="https://github.com/dinaraparanid/String-Counter">String Counter</a></li>
+                            <li class="txt"><a href="https://github.com/dinaraparanid/genius_lyrics">Genius Lyrics Parser</a></li>
+                            <li class="txt"><a href="https://github.com/dinaraparanid/genius_track_number_in_album">Genius Track Number Parser</a></li>
+                        </ul>
+                    </div>
+                </div>
+        </div>
+    </foreignObject>
+</svg>
