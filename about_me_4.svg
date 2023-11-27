@@ -1,0 +1,35 @@
+<svg version="2.0" baseProfile="full" fill="none" width="1200" height="100" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                .hdr {
+                font-family: Pristina, serif;
+                font-size: 45px;
+                text-shadow: 1px 5px 10px #700071;
+                margin-top: 20px;
+                color: #5e009c;
+                padding-left: 10px;
+                }
+
+                .sub-hdr {
+                font-family: Pristina, serif;
+                font-size: 30px;
+                text-shadow: 1px 1px 10px #C611BE;
+                margin-top: 20px;
+                color: #115EC6;
+                padding-left: 10px;
+                }
+
+                .txt {
+                font-size: 20px;
+                text-shadow: 1px 1px 15px #C611BE;
+                font-style: italic;
+                color: #115EC6;
+                padding-left: 10px;
+                padding-right: 10px;
+                }
+            </style>
+            <p class="hdr">Statistics</p>
+        </div>
+    </foreignObject>
+</svg>
