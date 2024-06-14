@@ -32,11 +32,12 @@
 
             <div style="display: flex; padding-bottom: 20px; padding-left: 10px;">
                     <div>
-                        <p class="sub-hdr">Android</p>
+                        <p class="sub-hdr">Mobile</p>
                         <ul>
                             <li class="txt"><a href="https://github.com/dinaraparanid/PrimaMobile">PrimaMobile</a></li>
                             <li class="txt"><a href="https://github.com/dinaraparanid/Crescendo">Crescendo</a></li>
-                            <li class="txt"><a href="https://github.com/dinaraparanid/Star-Wars-Travel">Star Wars Travel</a></li>
+                            <li class="txt"><a href="https://github.com/dinaraparanid/Star-Wars-Travel-KMP">Star Wars Travel (KMP)</a></li>
+                            <li class="txt"><a href="https://github.com/dinaraparanid/Star-Wars-Travel">Star Wars Travel (Android)</a></li>
                             <li class="txt"><a href="https://github.com/dinaraparanid/XXO">XXO</a></li>
                             <li class="txt"><a href="https://github.com/dinaraparanid/LogisticsAssistant">Logistics Assistant</a></li>
                             <li class="txt"><a href="https://github.com/dinaraparanid/Online-Shop-EF">Online Shop</a></li>
@@ -49,6 +50,7 @@
                         <ul>
                             <li class="txt"><a href="https://github.com/dinaraparanid/PrimaPC">PrimaPC</a></li>
                             <li class="txt"><a href="https://github.com/dinaraparanid/CrosswordGenerator">Crossword Generator</a></li>
+                            <li class="txt"><a href="https://github.com/dinaraparanid/Star-Wars-Travel-KMP">Star Wars Travel (KMP)</a></li>
                             <li class="txt"><a href="https://github.com/dinaraparanid/Library_rs">Library-rs</a></li>
                             <li class="txt"><a href="https://github.com/dinaraparanid/MultiTanks">MultiTanks</a></li>
                             <li class="txt"><a href="https://github.com/dinaraparanid/SapperRemastered">SAPPER Remastered</a></li>
