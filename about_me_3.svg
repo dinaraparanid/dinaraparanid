@@ -5,7 +5,7 @@
                 .hdr {
                 font-family: Pristina, serif;
                 font-size: 45px;
-                text-shadow: 1px 5px 10px #700071;
+                text-shadow: 1px 1px 4px #700071;
                 margin-top: 20px;
                 color: #5e009c;
                 padding-left: 10px;
@@ -14,7 +14,7 @@
                 .sub-hdr {
                 font-family: Pristina, serif;
                 font-size: 30px;
-                text-shadow: 1px 1px 10px #C611BE;
+                text-shadow: 1px 1px 2px #115EC6;
                 margin-top: 20px;
                 color: #115EC6;
                 padding-left: 10px;
@@ -22,7 +22,6 @@
 
                 .txt {
                 font-size: 20px;
-                text-shadow: 1px 1px 15px #C611BE;
                 font-style: italic;
                 color: #115EC6;
                 padding-left: 10px;
