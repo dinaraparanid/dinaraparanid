@@ -21,6 +21,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="CPP" width="65" style="margin-right: 20px">
 </div>
 
+<p></p>
+
 <img src="about_me_2.png"/>
 <img src="about_me_3.svg"/>
 <img src="https://raw.githubusercontent.com/dinaraparanid/dinaraparanid/main/about_me_4.png"/>
