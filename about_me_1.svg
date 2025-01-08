@@ -1,4 +1,4 @@
-<svg version="2.0" baseProfile="full" fill="none" width="1200" height="520" xmlns="http://www.w3.org/2000/svg">
+<svg version="2.0" baseProfile="full" fill="none" width="1200" height="400" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
@@ -34,26 +34,19 @@
                 <p class="hdr">About Me</p>
 
                 <p class="txt">
-                    I am a Computes Scientist and a Software Engineer (employeed as an Android developer, have experience in Desktop and Full-Stack development).
-                    I am officially employed by the Cyber-Rom company as an Android developer.
-                    Currently, I am studying for a bachelor's degree at Innopolis University.
+                    I am a mobile developer with more than 5 years of experience in developing projects using a wide range of technologies. I am officially employed as a native Android developer at Rutube, where I also worked with modern technologies and multiplatform projects (KMP). I'm also interested in becoming a Flutter developer commercially.
                 </p>
 
                 <p class="txt">
                     I believe that theory and practice are inseparable,
                     so I back up my knowledge with competent technical literature
-                    and create projects in various spheres.
+                    and create projects in various spheres. For now, I am focused on Flutter and Kotlin Multiplatform development.
                 </p>
 
                 <p class="txt">
                     As for my main interests in Compute Science, I am passionate about system programming,
-                    high-performance computing (parallelism, concurrency, asynchronous execution)
-                    and native and cross-platform mobile development.
-                </p>
-
-                <p class="txt">
-                    When I have a free time, I explore something new and make articles about it.
-                    Speaking about hobbies, I like producing electronic music and work out in the gym
+                    functional and reactive paradigms, high-performance computing
+                    and native and cross-platform development.
                 </p>
 
                 <p class="hdr">Languages</p>

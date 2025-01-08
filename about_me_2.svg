@@ -1,4 +1,4 @@
-<svg version="2.0" baseProfile="full" fill="none" width="1200" height="980" xmlns="http://www.w3.org/2000/svg">
+<svg version="2.0" baseProfile="full" fill="none" width="1200" height="900" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
@@ -35,88 +35,64 @@
 
                 <div style="display: flex; padding-bottom: 20px; padding-left: 10px;">
                     <div>
-                        <p class="sub-hdr">Android</p>
+                        <p class="sub-hdr">Frontend (Mobile / Desktop)</p>
 
                         <ul style="padding-bottom: 20px; margin-left: 10px;">
-                            <li class="txt">Jetpack Compose</li>
+                            <li class="txt">Kotlin Multiplatform</li>
+                            <li class="txt">Flutter</li>
+                            <li class="txt">Jetpack Compose (Multiplatform)</li>
+                            <li class="txt">Swing</li>
                             <li class="txt">Decompose</li>
                             <li class="txt">MVVM, MVI</li>
+                            <li class="txt">BLoC, Riverpod</li>
                             <li class="txt">Coroutines + Flow and Channel</li>
                             <li class="txt">RxJava</li>
-                            <li class="txt">Koin</li>
-                            <li class="txt">Dagger-Hilt</li>
-                            <li class="txt">Room</li>
-                            <li class="txt">SQL Delight</li>
-                            <li class="txt">Firebase</li>
-                            <li class="txt">Ktor</li>
-                            <li class="txt">Retrofit</li>
-                            <li class="txt">JUnit</li>
+                            <li class="txt">RxDart</li>
+                            <li class="txt">Koin, Kodein, Dagger-Hilt</li>
+                            <li class="txt">GetIt</li>
+                            <li class="txt">Room, SQLDelight</li>
+                            <li class="txt">SQFLite, Hive</li>
+                            <li class="txt">Firebase (Auth, Firestore, Push Notifications</li>
+                            <li class="txt">Ktor, Retrofit, OkHttp</li>
+                            <li class="txt">Dio</li>
+                            <li class="txt">WebSockets</li>
                             <li class="txt">Kotlinx.Serialization + Kotlinx.Parcelize</li>
-                            <li class="txt">Gson, Jackson</li>
-                            <li class="txt">Coil, Glide, Picasso</li>
+                            <li class="txt">Freezed + Json Serializable</li>
                             <li class="txt">DataStore, SharedPreferences</li>
-                            <li class="txt">WorkManager, AlarmManager</li>
+                            <li class="txt">WorkManager</li>
                             <li class="txt">Service, BroadcastReceiver</li>
-                            <li class="txt">JNI (Rust version)</li>
-                        </ul>
-                    </div>
-                    <div>
-                        <p class="sub-hdr">Desktop</p>
-
-                        <ul style="padding-bottom: 20px; margin-left: 10px;">
-                            <li class="txt">Kotlin, Scala, C++</li>
-                            <li class="txt">Compose Desktop</li>
-                            <li class="txt">Swing</li>
-                            <li class="txt">Qt</li>
-                            <li class="txt">Coroutines + Flow and Channel</li>
-                            <li class="txt">RxJava</li>
-                            <li class="txt">ZIO</li>
-                            <li class="txt">Cats + Cats Effect</li>
-                            <li class="txt">Boost</li>
-                            <li class="txt">Kotlinx.Serialization</li>
-                            <li class="txt">Gson, Jackson</li>
-                            <li class="txt">Circle (Scala)</li>
-                            <li class="txt">SQLite + PostgreSQL</li>
-                            <li class="txt">JDBC</li>
-                            <li class="txt">SQLDelight ORM</li>
-                            <li class="txt">Exposed ORM</li>
-                            <li class="txt">Doobie ORM</li>
-                            <li class="txt">Firebase</li>
+                            <li class="txt">JNI + Dart FFI</li>
                         </ul>
                     </div>
                     <div>
                         <p class="sub-hdr">Backend</p>
 
                         <ul style="padding-bottom: 20px; margin-left: 10px;">
-                            <li class="txt">Kotlin, Scala, Rust, C++</li>
+                            <li class="txt">Kotlin, Scala, Rust</li>
                             <li class="txt">Ktor</li>
                             <li class="txt">Spring</li>
                             <li class="txt">http4s</li>
-                            <li class="txt">Boost</li>
-                            <li class="txt">Futures + Tokio</li>
-                            <li class="txt">Hyper-rs</li>
-                            <li class="txt">Kotlinx.Serialization</li>
-                            <li class="txt">Gson, Jackson</li>
-                            <li class="txt">Circle (Scala)</li>
-                            <li class="txt">Serde + Yaml-Rust</li>
-                            <li class="txt">gRPC + ProtoBuf</li>
-                            <li class="txt">SQLite + PostgreSQL</li>
-                            <li class="txt">JDBC</li>
-                            <li class="txt">SQLDelight ORM</li>
-                            <li class="txt">Exposed ORM</li>
-                            <li class="txt">Doobie ORM</li>
-                            <li class="txt">Diesel ORM</li>
+                            <li class="txt">Tokio-rs + Hyper-rs</li>
+                            <li class="txt">REST, gRPC, WebSockets</li>
+                            <li class="txt">PostgreSQL, SQLite, MySQL</li>
+                            <li class="txt">Redis</li>
+                            <li class="txt">RabbitMQ, Kafka</li>
                             <li class="txt">Firebase</li>
                             <li class="txt">Docker</li>
+                            <li class="txt">Linux Bash</li>
                         </ul>
                     </div>
                     <div>
-                        <p class="sub-hdr">Frontend</p>
+                        <p class="sub-hdr">Frontend (Web)</p>
 
                         <ul style="padding-bottom: 20px; margin-left: 10px;">
-                            <li class="txt">React (TS and Kotlin)</li>
+                            <li class="txt">Flutter</li>
+                            <li class="txt">BLoC, Riverpod</li>
+                            <li class="txt">React</li>
+                            <li class="txt">Redux</li>
                             <li class="txt">HTML + CSS</li>
-                            <li class="txt">Firebase</li>
+                            <li class="txt">REST, WebSockets</li>
+                            <li class="txt">Firebase (Auth, Firestore, Push Notifications)</li>
                             <li class="txt">Docker</li>
                         </ul>
                     </div>
