@@ -34,20 +34,21 @@
 
                 <p class="txt">
                     I am a mobile developer with more than 5 years of experience in developing projects using a wide range of technologies.
-                    For now, I am officially employed as a Flutter developer at Russian Agricultural Bank (Россельхозбанк).
-                    Previously, I was working as an Android / KMP developer at Rutube.
+                    For now, I am officially employed as a Senior Flutter developer, while also working on some projects with both Flutter and native Android / KMP.
                 </p>
 
                 <p class="txt">
                     I believe that theory and practice are inseparable,
                     so I back up my knowledge with competent technical literature
-                    and create projects in various spheres. For now, I am focused on Flutter and Kotlin Multiplatform development.
+                    and create projects in various spheres. For now, I am focused on cross-platform development with Flutter and Kotlin Multiplatform development.
+                    Most of my experience was dedicated to mobile app development, but recently I started to develop for Smart TV and desktop devices.
                 </p>
 
                 <p class="txt">
-                    As for my main interests in Compute Science, I am passionate about system programming,
-                    functional and reactive paradigms, high-performance computing
-                    and native and cross-platform development.
+                    As for my main interests in Compute Science, I enjoy creating software for various operating systems,
+                    some of which may require platform-related system programming.
+                    I like functional and reactive paradigms, high-performance computing
+                    and native and cross-platform  application development.
                 </p>
 
                 <p class="hdr">Languages</p>
