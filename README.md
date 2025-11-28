@@ -9,7 +9,7 @@
   </a>
 </div>
 
-<img src="about_me_1.png"/>
+<img src="about_me_1.svg"/>
 
 <div style="align-items: center; display: flex; padding-bottom: 20px; padding-left: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="65">
